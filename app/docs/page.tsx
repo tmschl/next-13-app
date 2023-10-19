@@ -1,5 +1,5 @@
 const DocsPage = () => {
-  return <div>docs</div>
+  return <div>docs timmy boy</div>
 }
 
 export default DocsPage;
